@@ -1,6 +1,6 @@
 # Protege-First-Project
 
-This is my first project on Protégé! 
+This is my first project on [Protégé](https://protege.stanford.edu/)! 
 
 It is a very simple OWL ontology built using **Protégé** for my Data Semantics course. 
 
